@@ -1403,6 +1403,22 @@ a.menu-toggle {
 
 /** 
  * ===================================================================
+ * pkg section
+ *
+ * ------------------------------------------------------------------- 
+ */
+#pkg {
+	background: #1fddbe; 
+	padding-top: 5rem;
+	padding-bottom: 15rem;
+	overflow: hidden;
+}
+
+
+
+
+/** 
+ * ===================================================================
  * process section
  *
  * ------------------------------------------------------------------- 
@@ -1532,7 +1548,7 @@ a.menu-toggle {
 	-moz-background-size: cover;
 	background-size: cover;
 	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-bottom: 15rem;
 	color: white;
 }
 #features .section-intro h1 {
@@ -1605,7 +1621,7 @@ a.menu-toggle {
 #pricing {
 	background: #a0650c;
 	padding-top: 12rem;
-	padding-bottom: 9.6rem;
+	padding-bottom: 20rem;
 }
 .pricing-content {
 	margin-top: 6.6rem;
@@ -1996,7 +2012,7 @@ a.menu-toggle {
 #faq {
 	background: #0e4da5;
 	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-bottom: 20rem;
 }
 .faq-content {
 	margin-top: 5.4rem;
