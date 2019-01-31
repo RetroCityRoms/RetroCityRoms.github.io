@@ -1547,8 +1547,8 @@ a.menu-toggle {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	padding-top: 12rem;
-	padding-bottom: 15rem;
+	padding-top: 15rem;
+	padding-bottom: 20rem;
 	color: white;
 }
 #features .section-intro h1 {
@@ -1619,7 +1619,7 @@ a.menu-toggle {
  */
 
 #pricing {
-	background: #a0650c;
+	background: #8837a8;
 	padding-top: 12rem;
 	padding-bottom: 20rem;
 }
@@ -2010,7 +2010,7 @@ a.menu-toggle {
  */
 
 #faq {
-	background: #0e4da5;
+	background: #9b3659;
 	padding-top: 12rem;
 	padding-bottom: 20rem;
 }
